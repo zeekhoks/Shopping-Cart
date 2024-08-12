@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "name": "Italian Shoes",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 345.67,
+        "quantity": 240,
+        "image_url": "src/assets/italian-shoes.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 2,
+        "name": "Leather Jacket",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 500.00,
+        "quantity": 243,
+        "image_url": "src/assets/leather-jacket.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 3,
+        "name": "Woolen Scarf",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 45.00,
+        "quantity": 1034,
+        "image_url": "src/assets/woolen-scarf.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 4,
+        "name": "Designer Handbag",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 250.75,
+        "quantity": 535,
+        "added": false,
+        "image_url": "src/assets/designer-handbag.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 5,
+        "name": "Classic Watch",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 150.50,
+        "quantity": 34,
+        "image_url": "src/assets/classic-watch.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 6,
+        "name": "Sunglasses",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 80.00,
+        "quantity": 74,
+        "image_url": "src/assets/sunglasses.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 7,
+        "name": "Running Shoes",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 120.00,
+        "quantity": 43,
+        "image_url": "src/assets/running-shoes.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 8,
+        "name": "Leather Belt",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 40.00,
+        "quantity": 648,
+        "image_url": "src/assets/leather-belt.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 9,
+        "name": "Formal Shirt",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 60.00,
+        "quantity": 887,
+        "image_url": "src/assets/formal-shirt.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 10,
+        "name": "Denim Jeans",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 70.00,
+        "quantity": 103,
+        "image_url": "src/assets/denim-jeans.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 11,
+        "name": "Sports Jacket",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 110.00,
+        "quantity": 286,
+        "image_url": "src/assets/sports-jacket.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 12,
+        "name": "Casual T-Shirt",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 25.00,
+        "quantity": 153,
+        "image_url": "src/assets/casual-tshirt.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 13,
+        "name": "Wool Sweater",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 75.00,
+        "quantity": 95,
+        "image_url": "src/assets/wool-sweater.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 14,
+        "name": "Silk Tie",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 30.00,
+        "quantity": 203,
+        "image_url": "src/assets/silk-ties.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 15,
+        "name": "Sneakers",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 90.00,
+        "quantity": 1245,
+        "image_url": "src/assets/sneakers.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 16,
+        "name": "Winter Coat",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 200.00,
+        "quantity": 334,
+        "image_url": "src/assets/winter-coat.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 17,
+        "name": "Leather Wallet",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 50.00,
+        "quantity": 700,
+        "image_url": "src/assets/leather-wallet.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 18,
+        "name": "Baseball Cap",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 20.00,
+        "quantity": 189,
+        "image_url": "src/assets/baseball-cap.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 19,
+        "name": "Chinos",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 65.00,
+        "quantity": 112,
+        "image_url": "src/assets/chinos.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 20,
+        "name": "Flip Flops",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 15.00,
+        "quantity": 2556,
+        "image_url": "src/assets/flip-flops.jpg",
+        "cart_quantity": 0
+    },
+    {
+        "id": 21,
+        "name": "Perfume",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tempora voluptas unde dicta autem ullam. Consectetur, qui, unde sed ducimus corporis delectus suscipit mollitia deserunt ipsa molestias consequuntur labore perferendis.",
+        "price": 150.00,
+        "quantity": 2521,
+        "image_url": "src/assets/perfume.jpg",
+        "cart_quantity": 0
+    }
+]
